@@ -77,8 +77,6 @@
   <ItemGroup>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="rawsample.cs" />
-    <Compile Include="startup-1.cs" />
     <Compile Include="startup.cs" />
   </ItemGroup>
   <ItemGroup>
